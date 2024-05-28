@@ -34,7 +34,7 @@ import { useState } from "react";
         <>
             <div className="flex flex-col justify-center h-full">
             <h1 className="text-black text-2xl font-black mb-12">
-              Bienvenido al Buzón de Sugerencias
+              Bienvenido a Feedback Zone
             </h1>
             <form
               action=""
