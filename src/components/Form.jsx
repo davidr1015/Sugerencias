@@ -63,8 +63,8 @@ import { useState } from "react";
                 ></textarea>
               </label>
 
-              <div className="flex justify-end  ">
-                <button className="w-min px-4 rounded-lg py-1 text-blue-300 font-bold">
+              <div className="flex justify-start">
+                <button className="w-min px-4 rounded-lg py-1 text-white bg-blue-500 font-bold">
                   Enviar
                 </button>
               </div>
